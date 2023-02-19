@@ -6,6 +6,7 @@
 ![image](https://user-images.githubusercontent.com/62698742/219967650-3a3c803a-6ec5-4aba-9098-306ebfca44b4.png)
 
 **SVM**
+
 **Learned Weights for each class**
 
 ![image](https://user-images.githubusercontent.com/62698742/219967478-bb2cb882-7aca-44ce-a46e-4cf5ca0f4379.png)
